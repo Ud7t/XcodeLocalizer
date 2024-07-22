@@ -51,3 +51,5 @@ You can get the path by dragging and dropping the file into the terminal.
 Now press enter and watch the magic unfold!
 ## Contributing
 Contributions are encouraged! Please open an issue or submit a PR for any enhancements or bug fixes.
+## License
+[MIT](https://github.com/Ud7t/xcode-string-catalog-localizer/blob/main/LICENSE) @ Udit Agrawal
