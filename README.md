@@ -16,7 +16,8 @@ A Python tool that automatically translates an Xcode project's strings catalog i
 
    ```bash
    git clone https://github.com/Ud7t/xcode-string-catalog-localizer.git
-   cd xcode-strings-localizer
+   cd xcode-string-catalog-localizer
+   ```
 2. Install the required packages:
 
    ```bash
@@ -50,5 +51,3 @@ You can get the path by dragging and dropping the file into the terminal.
 Now press enter and watch the magic unfold!
 ## Contributing
 Contributions are encouraged! Please open an issue or submit a PR for any enhancements or bug fixes.
-
-
