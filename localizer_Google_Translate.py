@@ -2,6 +2,7 @@ import datetime
 import json
 from googletrans import Translator
 
+# Add target languages for translation here
 LANGUAGE_IDENTIFIERS = ['en', 'ur', 'pa']
 
 translator = Translator()

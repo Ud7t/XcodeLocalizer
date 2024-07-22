@@ -4,6 +4,7 @@ import json
 
 DEEPL_API_KEY = ''
 
+# Add target langauges for translation here
 LANGUAGE_IDENTIFIERS = ['en', 'uk', 'ro']
 
 if not DEEPL_API_KEY:
