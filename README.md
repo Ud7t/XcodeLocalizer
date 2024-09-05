@@ -1,4 +1,4 @@
-# Xcode String Catalog Localizer
+# XcodeLocalizer
 A Python tool that automatically translates an Xcode project's strings catalog into the desired languages. It currently supports translation using either Google Translate or DeepL.
 
 **Note**: It is recommended to have someone review and correct the translations before deploying them to production.
@@ -15,8 +15,8 @@ A Python tool that automatically translates an Xcode project's strings catalog i
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Ud7t/xcode-string-catalog-localizer.git
-   cd xcode-string-catalog-localizer
+   git clone https://github.com/Ud7t/XcodeLocalizer.git
+   cd XcodeLocalizer
    ```
 2. Install the required packages:
 
@@ -52,4 +52,4 @@ Now press enter and watch the magic unfold!
 ## Contributing
 Contributions are encouraged! Please open an issue or submit a PR for any enhancements or bug fixes.
 ## License
-[MIT](https://github.com/Ud7t/xcode-string-catalog-localizer/blob/main/LICENSE) @ Udit Agrawal
+[MIT](https://github.com/Ud7t/XcodeLocalizer/blob/main/LICENSE) @ Udit Agrawal
